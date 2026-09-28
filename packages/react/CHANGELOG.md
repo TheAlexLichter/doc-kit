@@ -1,5 +1,11 @@
 # @doc-kit/generator-react
 
+## 0.4.0
+
+### Minor Changes
+
+- [#1110](https://github.com/nodejs/doc-kit/pull/1110) [`8fd0c13`](https://github.com/nodejs/doc-kit/commit/8fd0c13f0698affc25d78399584d1a75a8f389d2) Thanks [@avivkeller](https://github.com/avivkeller)! - feat(html): fetch the remote config once through a `useRemoteConfig` hook, and let its `versions` key replace the build-time version selector entries
+
 ## 0.3.1
 
 ### Patch Changes
